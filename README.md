@@ -1,5 +1,8 @@
 # Third-Party APIs Challenge: Work Day Scheduler
 
+## Links
+Live URL 
+Repository
 
 ## Acceptance Criteria
 * GIVEN I am using a daily planner to create a schedule

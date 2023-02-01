@@ -1,7 +1,7 @@
 # Third-Party APIs Challenge: Work Day Scheduler
 
 ## Links
-* Live URL:
+* Live URL: https://mcbariekman.github.io/scheduler_module5/
 * Repository: https://github.com/mcbariekman/scheduler_module5
 
 ## Screenshot

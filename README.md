@@ -1,11 +1,16 @@
-# Third-Party APIs Challenge: Work Day Scheduler
+# Work Day Scheduler - Third-Party APIs Challenge
+
+## Table of Contents
+* [Links](#links)
+* [Screenshot](#screenshot)
+* [Acceptance Criteria](#acceptance-criteria)
 
 ## Links
-* Live URL: https://mcbariekman.github.io/scheduler_module5/
-* Repository: https://github.com/mcbariekman/scheduler_module5
+* Live URL: [https://mcbariekman.github.io/scheduler_module5/](https://mcbariekman.github.io/scheduler_module5/)
+* Repository: [https://github.com/mcbariekman/scheduler_module5](https://github.com/mcbariekman/scheduler_module5)
 
 ## Screenshot
-*
+![Work Day Scheduler Screenshot](/image/liveserver.png)
 
 ## Acceptance Criteria
 * GIVEN I am using a daily planner to create a schedule
